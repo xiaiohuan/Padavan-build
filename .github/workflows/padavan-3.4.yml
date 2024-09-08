@@ -9,10 +9,11 @@ on:
         options:
         - MI-NANO
         - MI-MINI
+        - GL-MT300N
         - MI-3
         - MI-3A
         - MI-3C
-        - MI-3MI
+        - MI-R3
         - MI-R3G
         - MI-R3P
         - MI-R3P-breed
@@ -57,7 +58,7 @@ on:
         default: 'true'
 
 env:
-  REPOSITORY_URL: https://github.com/yuos-bit/Padavan
+  REPOSITORY_URL: https://github.com/xiaiohuan/rt-n56u
   WORK_PATH: /opt/padavan-3.4
   TIME_ZONE: Asia/Shanghai
   FIRMWARE_DATEPREFIX: $(date +"%Y%m%d")
