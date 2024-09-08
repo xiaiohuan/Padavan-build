@@ -34,6 +34,7 @@ on:
         - DIR-878
         - DIR-882
         - MR2600
+        - NEWIFI3
         - NEWIFI
         - XY-C1
         - WR1200JS
